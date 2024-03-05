@@ -1,0 +1,7 @@
+name: d2d
+channels:
+  - anaconda
+dependencies:
+  - python=3.7.9
+  - pip:
+      - -r requirements.txt
